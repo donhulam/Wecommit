@@ -1,6 +1,6 @@
 {
   "name": "Wecommit Multi-Agent AI",
-  "description": "Hệ thống Multi-Agent AI hỗ trợ chăm sóc khách hàng và tư vấn khóa học Agentic AI của Wecommit.",
+  "description": "Hệ thống Multi-Agent của Wecommit giúp tự động phân tích và phản hồi email tư vấn khóa học Agentic AI.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
